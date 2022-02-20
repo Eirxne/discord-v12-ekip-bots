@@ -1,4 +1,10 @@
-# discord-v12-ekip-bots
+# Shadox'la Birlikte Kullandığımız V12 PM2 Ekip Botlarımızı Paylaşma Kararı Aldık. 
+
+100 Star 30 Forkta Paylaşımı Yapılacaktır.
+
+Botlarla İlgili Sorunlar İçin : Croesus#1883 & Shadox#1883 Ulaşabilirsiniz <3
+
+# Botların Örnek Komutları sslerde Bulunuyor. 
 
 ![image](https://media.discordapp.net/attachments/941770952642015333/944983473620418560/ss1.png)
 ![image](https://media.discordapp.net/attachments/941770952642015333/944983474119508078/ss3.png?width=489&height=676)
